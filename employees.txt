@@ -1,0 +1,104 @@
+[
+   {
+       "Id" : "1",
+       "Fname" : "Sunil",
+       "Lname" : "Yadahalli",
+       "Age" : "23",
+       "Address" : "Anand NAgar Mudhol",
+       "Gender" : "M",
+       "Phone No": "92382348234"
+   },
+   {
+        "Id" : "2",
+       "Fname" : "Shree",
+       "Lname" : "Hebbi",
+       "Age" : "23",
+       "Address" : "Anand NAgar Vijayapur",
+       "Gender" : "M",
+       "Phone No": "92382348234"
+   },
+   {
+       "Id" : "3",
+       "Fname" : "Veeresh",
+       "Lname" : "Vastrad",
+       "Age" : "23",
+       "Address" : "Vijayapur",
+       "Gender" : "M",
+       "Phone No": "92382348234"
+   },
+   {
+       "Id" : "4",
+       "Fname" : "Sunil",
+       "Lname" : "Yadahalli",
+       "Age" : "19",
+       "Address" : "Anand NAgar Mudhol",
+       "Gender" : "M",
+       "Phone No": "92382348234"
+   },
+   {
+       "Id" : "5",
+       "Fname" : "Mallu",
+       "Lname" : "Halle",
+       "Age" : "19",
+       "Address" : "Bidar",
+       "Gender" : "M",
+       "Phone No": "92382348234"
+   },
+   {
+        "Id" : "6",
+       "Fname" : "Madi",
+       "Lname" : "Swami",
+       "Age" : "19",
+       "Address" : "Bagalkot",
+       "Gender" : "M",
+       "Phone No": "92382348234"
+   },
+   {
+       "Id" : "7",
+       "Fname" : "Mahesh",
+       "Lname" : "Patil",
+       "Age" : "25",
+       "Address" : "Vijayapur",
+       "Gender" : "M"
+   },
+   {
+        "Id" : "8",
+       "Fname" : "Ravi",
+       "Lname" : "Sanagoudar",
+       "Age" : "40",
+       "Address" : "Kundaragi",
+       "Gender" : "M"
+   },
+   {
+        "Id" : "9",
+       "Fname" : "Ravi",
+       "Lname" : "Sanagoudar",
+       "Age" : "40",
+       "Address" : "Kundaragi",
+       "Gender" : "M"
+   },
+   {
+        "Id" : "10",
+       "Fname" : "Ravi",
+       "Lname" : "Sanagoudar",
+       "Age" : "40",
+       "Address" : "Kundaragi",
+       "Gender" : "M"
+   },
+   {
+    "Id" : "11",
+    "Fname" : "Mahesh",
+    "Lname" : "Patil",
+    "Age" : "25",
+    "Address" : "Vijayapur",
+    "Gender" : "M"
+   }, 
+   {
+    "Id" : "12",
+    "Fname" : "Mahesh",
+    "Lname" : "Patil",
+    "Age" : "25",
+    "Address" : "Vijayapur",
+    "Gender" : "M"
+}
+];
